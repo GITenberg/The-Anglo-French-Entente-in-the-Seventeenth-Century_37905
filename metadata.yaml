@@ -1,0 +1,40 @@
+_repo: The-Anglo-French-Entente-in-the-Seventeenth-Century_37905
+_version: 0.1.0
+alternative_title:
+- Anglais et Français du XVIIe siècle. English
+- The Anglo-French Entente in the 17th Century
+covers:
+- cover_type: archival
+  image_path: 37905-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bastide, Charles
+    alias: Bastide, Ch. (Charles)
+    birthdate: 1875
+    gutenberg_agent_id: '39126'
+    url: http://www.gutenberg.org/2009/agents/39126
+description: ''
+gutenberg_issued: '2011-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37905'
+  lccn: '13024990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Relations -- France'
+- !lcsh 'Comparative literature -- English and French'
+- !lcsh 'Civilization, Modern -- 17th century'
+- !lcsh 'Comparative literature -- French and English'
+- !lcsh 'France -- Relations -- Great Britain'
+- !lcc 'DA'
+tableOfContents: Introduction -- From Paris to London under the Merry Monarch -- Did
+  Frenchmen learn English in the seventeenth century? -- Specimens of English written
+  by Frenchmen -- Gallomania in England (1600-1685) -- Huguenot thought in England
+  -- Shakespeare and Christophe Mongoye -- French gazettes in London (1650-1700) --
+  A quarrel in Soho (1682) -- The courtship of Pierre Coste, and other letters --
+  The strange adventures of the translator of Robinson Crusoe, the Chevalier de Thémiseul.
+title: The Anglo-French Entente in the Seventeenth Century
+url: http://www.gutenberg.org/ebooks/37905
